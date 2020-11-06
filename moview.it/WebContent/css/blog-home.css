@@ -4,5 +4,9 @@
  * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-blog-home/blob/master/LICENSE)
  */
 body {
-  padding-top: 56px;
+	padding-top: 56px;
+}
+
+.ui-slider-range {
+	background: rgb(255, 130, 37);
 }
